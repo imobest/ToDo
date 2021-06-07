@@ -1,4 +1,6 @@
-# todo
+# TO DO Application
+Learning Vue.js with Pro Vue.js 2 by Adam Freeman
+One of the first projects. A little bit updated by myself.
 
 ## Project setup
 ```
